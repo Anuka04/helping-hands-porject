@@ -1,1 +1,1 @@
-# helping-hands-porject
+# helping-hands-project
