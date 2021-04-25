@@ -1,4 +1,4 @@
-# helping-hands-project
+# Helping hands
 
 Link to the project:
 https://anuka04.github.io/helping-hands-project/
